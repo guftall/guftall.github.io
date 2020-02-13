@@ -1,7 +1,7 @@
 # Site settings
 title: Omid Dehghani
 description: Death is what reminds me of life.
-baseurl: "/particle" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://guftall.ir"  # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
