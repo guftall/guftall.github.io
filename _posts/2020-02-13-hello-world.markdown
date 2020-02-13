@@ -5,4 +5,4 @@ categories: [omid]
 tags: [introduce,hi]
 ---
 Hi, I'm Omid Dehghani and this is my first website that hosted by `Github Pages`.
-I am `Software Engineering STUDENT`. Learning and working in `Persian Gulf University`.
+I am `Software Engineering STUDENT`. Learning and working at `Persian Gulf University`.
